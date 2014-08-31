@@ -497,6 +497,19 @@ footer a:hover {
 		margin: 0 auto;
 	}
 
+	header h1 {
+		text-align: center;
+		margin: 17px auto 0;
+		display: block;
+	}
+
+	header h2 {
+		text-align: center;
+	}
+	header h2.follow {
+		display: block;
+	}
+
 }
 
 strong,
