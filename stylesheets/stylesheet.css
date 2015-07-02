@@ -53,7 +53,7 @@ table {
 body {
   font-size: 15px;
   line-height: 1.5;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #222222 url(../images/binding_dark.png) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
   font-weight: 400;
   color: #666;
@@ -89,7 +89,7 @@ header h1 {
 	display: inline-block;
 	vertical-align: top;
 	margin-top: 0.15em;
-	margin-left: 0.2em;
+	margin-left: 0.4em;
 	font-weight: 600;
 }
 
@@ -100,7 +100,7 @@ header h2 {
   line-height: 1.5;
   width: 540px;
   letter-spacing: 0;
-	margin-left: 6em;
+	margin-left: 6.2em;
 }
 header h2 strong {
 	font-weight: bold;
@@ -129,7 +129,7 @@ header h2.follow a .about-bryce-github {
 
 .inner {
   position: relative;
-  width: 643px;
+  width: 700px;
   margin: 0 auto;
 }
 
